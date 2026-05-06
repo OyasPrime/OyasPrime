@@ -1,4 +1,4 @@
-# 👋 Hi, I'm OYas Prime
+# 👋 Hi, I'm OYasPrime
 
 🚀 Mobile Developer (Android & iOS)
 💡 Minimal • Fast • Clean
